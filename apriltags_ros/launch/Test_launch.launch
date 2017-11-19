@@ -1,0 +1,3 @@
+<launch>
+	<node name="node_test" pkg="apriltags_ros" type="Test_node.py" respawn="false" output="screen"/>
+</launch>
